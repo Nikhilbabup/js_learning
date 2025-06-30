@@ -1,0 +1,15 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "learning in progress",
+  "main": "01-two_sum.js",
+  "scripts": {
+    "test_two_sum": "npx jest 01-two_sum.test.js",
+    "test_two_numbers": "npx jest 02-add_two_numbers.test.js"
+  },
+  "author": "Nikhil Babu P",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
