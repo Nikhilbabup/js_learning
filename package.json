@@ -4,6 +4,8 @@
   "description": "learning in progress",
   "main": "01-two_sum.js",
   "scripts": {
+    "test": "npx jest",
+    "test_all": "npx jest --all",
     "test_two_sum": "npx jest 01-two_sum.test.js",
     "test_two_numbers": "npx jest 02-add_two_numbers.test.js"
   },
